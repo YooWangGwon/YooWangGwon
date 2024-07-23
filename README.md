@@ -41,7 +41,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=YooWangGwon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B3861&height=150&section=footer" />
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0B3861&height=150&section=footer" />-->
 
 <!--
 ## Tech Specification
